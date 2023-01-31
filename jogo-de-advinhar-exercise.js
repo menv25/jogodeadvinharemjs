@@ -6,7 +6,7 @@ while(chute != numeroMisterioso){
 
     } else if (chute > numeroMisterioso) {
         alert('Não conseguimos, o número é menor!')
-    } ele if (chute < numeroMisterioso) {
+    } else if (chute < numeroMisterioso) {
         alert('Erramos, o número é maior!')
     }
 }
